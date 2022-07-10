@@ -1,0 +1,33 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: false
+
+# Build settings
+markdown: kramdown
+
+# Setup
+title:               The first China-Russian Conference on Numerical Optimization and Machine Learning (NOML 2022)
+tagline:             
+url:                 noml2022.github.io
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Talgat Daulbaev
+  url:               twitter.com/TDaulbaev
+  email:             talgat.daulbaev@skoltech.ru
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/poole/poole
