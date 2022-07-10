@@ -8,7 +8,7 @@ relative_permalinks: false
 markdown: kramdown
 
 # Setup
-title:               The first China-Russian Conference on Numerical Optimization and Machine Learning (NOML 2022)
+title:               The first Chinese-Russian Conference on Numerical Optimization and Machine Learning (NOML 2022)
 tagline:             
 url:                 noml2022.github.io
 paginate:            1
